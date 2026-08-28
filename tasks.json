@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Rust todo app",
+    "description": "pactice",
+    "status": "Pending",
+    "priority": "High",
+    "due_date": "20-10-2004",
+    "created_at": "2026-08-28T16:52:39.578609497+05:30"
+  },
+  {
+    "id": 2,
+    "title": "It is completed now byee",
+    "description": "complete",
+    "status": "Pending",
+    "priority": "Low",
+    "due_date": "2027-06-03",
+    "created_at": "2026-08-28T17:17:50.492353664+05:30"
+  }
+]
